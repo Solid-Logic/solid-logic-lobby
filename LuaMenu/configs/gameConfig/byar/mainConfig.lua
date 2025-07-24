@@ -74,7 +74,7 @@ end
 
 local externalFuncAndData = {
 	dirName                = "byar",
-	name                   = "Beyond All Reason",
+	name                   = "Solid Logic",
 	--_defaultGameArchiveName = "??", fill this in.
 	_defaultGameRapidTag   = "byar:test", -- Do not read directly
 	--editor                 = "rapid://sb-byar:test",
