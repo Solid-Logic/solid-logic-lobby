@@ -326,9 +326,9 @@
         "application_id": "1185990483143569448",
         "minimap_url": "https://maps-metadata.beyondallreason.dev/latest/discordPresenceThumb/redir.<map>.1024.jpg",
         "large_image_key_default": "barlogobox",
-        "large_image_text_default": "Beyond All Reason",
+        "large_image_text_default": "Solid Logic",
         "small_image_key_default": "barlogobox",
-        "small_image_text_default": "Beyond All Reason",
+        "small_image_text_default": "Solid Logic",
         "button_label": "Play",
         "button_url": "https://www.beyondallreason.info/"
     }
