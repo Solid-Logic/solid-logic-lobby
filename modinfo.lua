@@ -1,7 +1,7 @@
 return {
-  name = 'BYAR Chobby',
-  shortName = 'BYAR_CHOBBY',
-  description = 'BYAR mutator for Chobby',
+  name = 'Solid Logic Lobby',
+  shortName = 'SL_LOBBY',
+  description = 'Solid Logic Lobby',
   version = '$VERSION',
   mutator = 'Official',
   modtype = 5,
